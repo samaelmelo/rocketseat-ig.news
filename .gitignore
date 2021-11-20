@@ -33,5 +33,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+<<<<<<< HEAD
 # readme
 explication
+=======
+# reademe
+README.md
+>>>>>>> a6df251787230792f043ccceb5400fbb190b5d94
