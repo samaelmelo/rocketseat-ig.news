@@ -43,7 +43,7 @@ export default function Home({product}: HomeProps) {
   );
 }
 
-
+// O SSR - SSG : só devem ser construidos dentro das páginas e nao nos componentes
 export const getStaticProps:GetStaticProps  = async () =>{
   
   const price = await stripe.prices.retrieve('price_1Jy1ijESiexfXKl7ROuUi7jZ')
