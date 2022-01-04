@@ -3,12 +3,12 @@
 
 <h3 align="center">Chapter #3</h3>
 <p align="center">
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-How-to-execute">How to execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licence">Licence</a>
+  <a href="#-How-to-execute">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Licence">Licença</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <img align="center" src="./public/images/next1.png" slt="ig.news" />
 
-## 💻 Project
+## 💻 Projeto
 
 ig.news é uma plataforma para compartilhar conteúdo de texto por meio de assinatura. Este  é o terceiro projeto desenvolvido em React no curso Ignite da [Rocketseat](https://rocketseat.com.br/).
 
@@ -32,7 +32,7 @@ ig.news é uma plataforma para compartilhar conteúdo de texto por meio de assin
 - [x] Administrando usuarios e inscrições com FaunaDB
 - [x] Administtrando conteudos de post com Prismic CMS
 
-## ✨ Technologies
+## ✨ Tecnologias
 
 This project was developed with the technologies above:
 
@@ -50,7 +50,7 @@ This project was developed with the technologies above:
 
 Veja o layout do projeto [neste link](https://www.figma.com/file/tJ7aBsWFbHGxpK3wyY6Eoh/ig.news). Você deve ter uma conta [Figma](http://figma.com) para acessar.
 
-## 🚀 How to execute
+## 🚀 Como executar
 
 - Clone o repositório.
 - Crie um novo repositorio no [Prismic](https://prismic.io)
@@ -61,7 +61,7 @@ Veja o layout do projeto [neste link](https://www.figma.com/file/tJ7aBsWFbHGxpK3
 - Execute a aplicação com `yarn dev`
 - Acesse [`localhost:3000`](http://localhost:3000) no seu browser
 
-## 📄 Licence
+## 📄 Licença
 
 Este projeto possui lincença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
